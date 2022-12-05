@@ -4,13 +4,9 @@ from pathlib import Path
 import openai
 import codecs
 import json
-from dotenv import load_dotenv
 
-load_dotenv()
-
-
+# Write the evaluation requirements
 requirements = """Actividad: Básica
-
 Crear un programa que me permita saber cuál es el competidor más veterano que ha recibido medalla (oro, plata o bronce)
 Crear un programa que me permita saber cuál es el competidor más joven que ha recibido medalla de oro
 Encuentra al competidor más ganador de la historia y crea un csv con toda su información.
@@ -20,6 +16,13 @@ Crear un programa que me permita saber cuál es el competidor más veterano que 
 Crear un programa que me permita saber cuál es el competidor más joven que ha recibido medalla de oro para los NOC´s USA y CAN
 Encuentra al competidor más ganador de la historia en medallas totales, medallas de oro, medallas de plata y medallas de broce para los NOC´s USA, CHN y RUS. Crea un csv con toda su información.
 """
+
+# Paste your OPENAI's API key
+OPEN_AI_API_KEY = ""
+
+# Set the route where the ipynb files will be located
+# default: ./submissions
+FILES_PATH = "./submissions"
 
 
 def retrieve_code_from_file(filename):
@@ -43,7 +46,7 @@ def retrieve_code_from_file(filename):
 
 
 def grade_code_with_gpt(code, filename):
-    openai.api_key = os.getenv("OPEN_AI_API_KEY")
+    openai.api_key = OPEN_AI_API_KEY
     dict_res = {
         "name": filename,
     }
@@ -81,14 +84,13 @@ def grade_code_with_gpt(code, filename):
 
 
 def main():
-    files_path = "./submissions"
-    output_file = open("grade_evals.json", "w")
+    output_file = open("grade_results.json", "w")
     grades = []
 
-    for filename in os.listdir(files_path):
+    for filename in os.listdir(FILES_PATH):
         if filename.endswith(".ipynb"):
             print("---")
-            file_path = os.path.abspath(os.path.join(files_path, filename))
+            file_path = os.path.abspath(os.path.join(FILES_PATH, filename))
             code = retrieve_code_from_file(file_path)
             if type(code) is dict:
                 continue
