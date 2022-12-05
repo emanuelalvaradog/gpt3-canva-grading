@@ -12,10 +12,10 @@ python3 --version
 "Python 3.X.X"
 ```
 
-2. ### Install the required dependencies from requirements.txt
+2. ### Install openai dependency
 
 ```bash
-pip install -r requirements.txt
+pip install openai
 ```
 
 3. ### Download all the submissions from canva using the "download submissions" button in every assignment.
