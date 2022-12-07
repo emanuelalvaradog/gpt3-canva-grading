@@ -62,6 +62,7 @@ def grade_code_with_gpt(code, filename):
     except:
         print("Error grade_code_with_gpt")
         dict_res["error"] = "Error evaluating code with gpt"
+        return dict_res
     else:
         try:
             json_response = json.loads(str(response))
@@ -96,7 +97,7 @@ def main():
             code += "\n"
             print(file_path)
             grade_res = grade_code_with_gpt(code, filename)
-            if "Error" in grade_res:
+            if "error" in grade_res:
                 pass
             grades.append(grade_res)
 
