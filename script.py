@@ -17,7 +17,7 @@ Encuentra al competidor más ganador de la historia en medallas totales, medalla
 """
 
 # Paste your OPENAI's API key
-OPEN_AI_API_KEY = "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"
+OPEN_AI_API_KEY = ""
 
 # Set the route where the ipynb files will be located
 # default: ./submissions
