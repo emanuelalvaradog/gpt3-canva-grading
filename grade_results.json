@@ -1,0 +1,129 @@
+[
+  {
+    "name": "almanzaerasmomissaelcruz_LATE_235_4767_Actividad - Competidores Ol\u00edmpicos-1.ipynb",
+    "Calificaci\u00f3n": "7",
+    "Feedback": "El c\u00f3digo contiene una estructura l\u00f3gica para solucionar los requerimientos planteados. Sin embargo, hay algunas l\u00edneas de c\u00f3digo no necesarias o redundantes, adem\u00e1s de poder optimizar el uso de variables y ciclos para mejorar la eficiencia."
+  },
+  {
+    "name": "ovallejes\u00fasemmanueltello_LATE_248_3838_Actividad_Competidores_Ol\u00edmpicos_Tello.ipynb",
+    "Calificacion": "8/10",
+    "Feedback": "El c\u00f3digo es generalmente bien escrito, pero hay algunas mejoras que podr\u00edan hacerse para mejorar el proceso de lectura y la reutilizaci\u00f3n del c\u00f3digo. Puedes agregar comentarios para explicar mejor el c\u00f3digo, agregar funciones para mejorar la modularidad y la reutilizaci\u00f3n, y nombrar mejor las variables para que sea m\u00e1s sencillo entender lo que est\u00e1 sucediendo."
+  },
+  {
+    "name": "galavizjos\u00e9carmensalas_LATE_229_4191_Competidores Ol\u00edmpicos.ipynb",
+    "Calificaci\u00f3n": "8",
+    "Feedback": "El c\u00f3digo est\u00e1 bien estructurado, est\u00e1 bien comentado y los nombres de las variables son claros y significativos. Sin embargo, el c\u00f3digo podr\u00eda ser simplificado mejorando la legibilidad del mismo."
+  },
+  {
+    "name": "gonzalezeduardoarellano_LATE_215_4036_Act_Competidores Ol\u00edmpicos.ipynb",
+    "Calificaci\u00f3n": "8 ",
+    "Feedback": "El c\u00f3digo es correcto, pero podr\u00edas mejorarlo agregando comentarios para una mejor comprensi\u00f3n del flujo de la l\u00f3gica y haciendo algunas optimizaciones en el c\u00f3digo."
+  },
+  {
+    "name": "gonzalezeduardoarellano_LATE_215_4037_Act_Competidores Ol\u00edmpicos Avanzada.ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "medinadianalauravallin_LATE_241_4257_actividad_competidores_olimpicos_.ipynb",
+    "Calificaci\u00f3n": "5",
+    "Feedback": "El c\u00f3digo no est\u00e1 completo para satisfacer los requerimientos de la actividad avanzada, faltan los filtros por NOC y por medallas y la creaci\u00f3n de los archivos CSV. Adem\u00e1s, se podr\u00eda mejorar la estructuraci\u00f3n del c\u00f3digo para hacerlo m\u00e1s legible y f\u00e1cil de entender."
+  },
+  {
+    "name": "felanjorgeavalos_LATE_238_4270_actividad_competidores_olimpicos.ipynb",
+    "Calificacion": "6",
+    "Feedback": "El c\u00f3digo no incluye funciones para filtrar los NOCs espec\u00edficos, ni para crear un archivo csv con la informaci\u00f3n sobre el competidor m\u00e1s ganador de la historia. Adem\u00e1s, el c\u00f3digo deber\u00eda estar m\u00e1s organizado y optimizado."
+  },
+  {
+    "name": "hern\u00e1ndezaldairdejesusdele\u00f3n_LATE_222_3797_actividad_competidores.ipynb",
+    "Calificacion": "7",
+    "Feedback": "El c\u00f3digo es correcto y est\u00e1 bien estructurado, pero podr\u00edan haberse agregado comentarios para mejorar la legibilidad y comprensi\u00f3n del c\u00f3digo."
+  },
+  {
+    "name": "limonpedroantonioovalle_LATE_212_4030_Tarea de medallas.ipynb",
+    "Calificaci\u00f3n": "7/10",
+    "Feedback": "El c\u00f3digo hace un buen trabajo al cumplir con los requerimientos b\u00e1sicos y avanzados. Sin embargo, hay algunas mejoras que podr\u00edan realizarse para mejorar el c\u00f3digo. Por ejemplo, se podr\u00edan usar funciones para evitar la repetici\u00f3n de c\u00f3digo y agregar una validaci\u00f3n al inicio del programa para asegurarse de que el archivo .csv se ha cargado correctamente. Adem\u00e1s, se podr\u00eda agreg"
+  },
+  {
+    "name": "monsivaismagdielestefaniavillarreal_LATE_232_4285_actividad_competidores_olimpicos_.ipynb",
+    "Calificaci\u00f3n": "6",
+    "Feedback": "El c\u00f3digo contiene los pasos necesarios para obtener la informaci\u00f3n sobre los competidores m\u00e1s veteranos que han recibido medallas, as\u00ed como el competidor m\u00e1s joven que ha recibido una medalla de oro. Sin embargo, no considera los NOC's solicitados en la actividad avanzada. Adem\u00e1s, el c\u00f3digo no contiene los pasos para encontrar el competidor m\u00e1s ganador de la historia con el CSV requerido."
+  },
+  {
+    "name": "g\u00e1mezh\u00e9ctordanielcalder\u00f3n_LATE_244_3845_Actividad_Competidores_Ol\u00edmpicos.ipynb",
+    "Calificaci\u00f3n": "6 ",
+    "Feedback": "El c\u00f3digo est\u00e1 incompleto. No est\u00e1 contemplando los requerimientos avanzados, adem\u00e1s hay algunas partes del c\u00f3digo que no est\u00e1n completas, como la l\u00ednea para crear el csv con la informaci\u00f3n del competidor m\u00e1s ganador."
+  },
+  {
+    "name": "ruizoscarcortes_LATE_209_4262_Competidores_Olimpicos.ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "gonzalezaldofedericotapia_LATE_242_4380_Competidores _Olimpicos (2) (1).ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "torresangelomarramirez_LATE_214_4008_Juegos_olimpicos.ipynb",
+    "Calificaci\u00f3n": "6",
+    "Feedback": "El c\u00f3digo contiene errores de sintaxis, se debe tener cuidado al escribir el c\u00f3digo. El programa no est\u00e1 completo, faltan pasos para obtener la informaci\u00f3n solicitada. El programa necesita ser mejorado para cumplir con los requerimientos."
+  },
+  {
+    "name": "rivasroxxanagabrielesquivel_LATE_234_4103_Actividad_competidores_olimpicos_Roxxana.ipynb",
+    "Calificacion": "8/10",
+    "Feedback": "El c\u00f3digo es correcto y cumple con los requerimientos b\u00e1sicos y avanzados, sin embargo, sugerimos agregar algunas condiciones para los NOCs (MEX, COL, ARG, USA, CAN, CHN, RUS), as\u00ed como un men\u00fa para que el usuario pueda elegir la acci\u00f3n que desea realizar."
+  },
+  {
+    "name": "alvaradojesuseduardopiza\u00f1a_LATE_210_3832_Actualizada_Tarea_Juegos_Olimpicos_Eduardo_Piza\u00f1a.ipynb",
+    "Calificaci\u00f3n": "7",
+    "Feedback": "El c\u00f3digo est\u00e1 bien construido, pero hay algunas partes que faltan para cumplir con los requerimientos avanzados. Por ejemplo, necesitas filtrar los NOCs MEX, COL y ARG para encontrar al competidor m\u00e1s veterano que ha recibido una medalla, y los NOCs USA y CAN para encontrar al competidor m\u00e1s joven que ha recibido una medalla de oro. Asimismo, necesitas encontrar al competidor m\u00e1s ganador de la"
+  },
+  {
+    "name": "domingueznohem\u00edcarolinapuente_LATE_217_3787_Act_Competidores_Ol\u00edmpicos.ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "alvaradojorgeandr\u00e9spiza\u00f1a_LATE_221_4245_Act_Competidores.ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "resendizjorgeantonios\u00e1nchez_LATE_220_3830_Actividad-Competidores_olimpicos.ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "mart\u00ednezdeboramichellereyes_LATE_223_4104_Actividad_Competidores_Olimpicos (1).ipynb",
+    "Calificaci\u00f3n": "5",
+    "Feedback": "El c\u00f3digo es correcto en t\u00e9rminos de l\u00f3gica y estructura, sin embargo, falta una mejor explicaci\u00f3n de los pasos l\u00f3gicos que se realizan en el c\u00f3digo."
+  },
+  {
+    "name": "mayorgamarioalbertovalero_LATE_213_3846_Actividad_Competidores_Ol\u00edmpicos.ipynb",
+    "Calificaci\u00f3n": "8",
+    "Feedback": "El c\u00f3digo es correcto y cubre los requerimientos planteados. Sin embargo, algunas l\u00edneas de c\u00f3digo se pueden mejorar para simplificar la soluci\u00f3n. Por ejemplo, el c\u00f3digo para encontrar el competidor m\u00e1s veterano que ha recibido una medalla para cada uno de los NOCs se puede agrupar en una sola l\u00ednea de c\u00f3digo."
+  },
+  {
+    "name": "vegadereckhumbertorivera_LATE_225_4087_Tarea comp olimpicos.ipynb",
+    "Calificacion": "7/10",
+    "Feedback": "El c\u00f3digo est\u00e1 bien estructurado y las l\u00edneas de c\u00f3digo son claras y concisas. Sin embargo, hay algunas l\u00edneas de c\u00f3digo que pueden mejorarse para ser m\u00e1s eficientes. Tambi\u00e9n es importante agregar comentarios al c\u00f3digo para mejorar su legibilidad."
+  },
+  {
+    "name": "vasquezcarlosalbertorojas_LATE_218_4749_Actividad_Competidores_Olimpicos.ipynb",
+    "Calificacion": "4 ",
+    "Feedback": "Se necesitan m\u00e1s instrucciones en el c\u00f3digo para completar los requerimientos dados. Se deben agregar instrucciones para encontrar el competidor m\u00e1s veterano que ha recibido medalla para los NOC's MEX, COL y ARG, el competidor m\u00e1s joven que ha recibido medalla de oro para los NOC's USA y CAN y el competidor m\u00e1s ganador de la historia en medallas totales, medallas de oro, medallas de plata y medallas de bronce para los NOC"
+  },
+  {
+    "name": "velezisraelaxelmerlos_LATE_239_4306_Competidores _Olimpicos.ipynb",
+    "error": "Error formating evaluation response"
+  },
+  {
+    "name": "chaconzerobertohern\u00e1ndez_LATE_216_4979_TAREA_comp,olim.ipynb",
+    "Calificaci\u00f3n": "7",
+    "Feedback": "El c\u00f3digo resuelve la actividad b\u00e1sica, sin embargo, para cumplir con la actividad avanzada se requiere modificar el c\u00f3digo para filtrar los datos de acuerdo a los NOC's especificados."
+  },
+  {
+    "name": "sanchezcelestejasso_LATE_243_4035_Actividad_CompetidoresOlimpicos.ipynb",
+    "Calificacion": "9",
+    "Feedback": "El c\u00f3digo es completo y muestra la soluci\u00f3n a cada uno de los requerimientos. Sin embargo, se podr\u00eda mejorar la legibilidad del c\u00f3digo agregando comentarios que ayuden a entender mejor el funcionamiento de cada l\u00ednea de c\u00f3digo."
+  },
+  {
+    "name": "rebollosobryanmiguel\u00e1ngell\u00f3pez_LATE_240_3853_Competidores Olimpicos.ipynb",
+    "error": "Error formating evaluation response"
+  }
+]
